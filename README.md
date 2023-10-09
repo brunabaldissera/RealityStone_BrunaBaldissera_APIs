@@ -29,7 +29,10 @@ O repositório está organizado de forma a facilitar a navegação e o acesso ao
 
 4. No Postman, vá em "File", no canto superior esquerdo, e clique em "Import". Ou apenas pressione "Ctrl + O".
 
-5. Localize o arquivo "ServeRest.postman_collection" e importe-o.
+5. Localize os seguintes arquivos para serem importados:
+
+- ServeRest.postman_collection.json
+- Web.postman_environment.json
 
 ## 💻 Executando os testes
 
