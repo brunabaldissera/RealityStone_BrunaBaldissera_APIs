@@ -44,7 +44,7 @@ O repositório está organizado de forma a facilitar a navegação e o acesso ao
 
 - De forma semelhante, é possível executar um cenário de teste por vez. Basta selecionar a pasta ou o teste específico desejado e clicar novamente em "Run".
 
-## 🔧 Ferramentas e Documentação
+## 🔧 Ferramentas e documentação
 
 - ServeRest
   * https://serverest.dev/#/
